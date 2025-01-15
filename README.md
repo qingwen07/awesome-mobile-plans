@@ -1,5 +1,5 @@
 # awesome-mobile-plans
-实惠、优质、高性价比的手机卡流量套餐合集，让你实现流量自由！
+实惠、优质、高性价比的手机卡流量套餐合集，让你实现流量自由，本项目里推荐的手机卡套餐都是正规运营商提供的套餐，完全免费领取！！
 
 ## 项目简介  
 **awesome-mobile-plans** 是一个专注于收集和推荐性价比高的手机卡流量套餐的开源项目。无论你是需要大流量套餐、国际漫游服务，还是寻找最具性价比的月租方案，这里都能帮你找到最合适的选择。  
@@ -18,3 +18,10 @@
 - 大流量不限速套餐  
 - 优质运营商的独家优惠套餐  
 
+<!-- BEGIN_REPLACE_SECTION -->
+| [![联通沧旗卡](./images/联通沧旗卡.jpeg)<br>联通沧旗卡 39元155G通用流量+100G定向+视频会员](https://172.lot-ml.com/h5orderEn/index?pudID=737a132b4e715c2d&userid=841d1c8802a89634) | [![联通沧轴卡](./images/联通沧轴卡.jpeg)<br>联通沧轴卡 29元80G流量【50G通用+30G定向】+100分钟通话](https://172.lot-ml.com/h5orderEn/index?pudID=5d60d286fead5f98&userid=841d1c8802a89634)  | [![电信海滨卡长期29元80G](./images/电信海滨卡长期29元80G.png)<br>电信海滨卡长期29元80G](https://172.lot-ml.com/h5orderEn/index?pudID=57d0d8b90e595568&userid=841d1c8802a89634) |
+|:---:|:---:|:---:|
+|[![广电海万卡24元150G150分钟](./images/广电海万卡24元150G150分钟.png)<br>广电海万卡24元150G150分钟](https://172.lot-ml.com/h5orderEn/index?pudID=cec2206f14367a36&userid=841d1c8802a89634) |  [![联通沧瑜卡](./images/联通沧瑜卡.jpeg)<br>联通沧瑜卡 29元50G流量+500分钟+300短信](2https://172.lot-ml.com/h5orderEn/index?pudID=e3ca7f4d5a10c52e&userid=841d1c8802a89634) |[![电信沧华卡](./images/电信沧华卡.jpeg)<br>电信沧华卡 19元150G流量](https://172.lot-ml.com/h5orderEn/index?pudID=0a8488e82999a386&userid=841d1c8802a89634)|
+|[![广电海龙卡](./images/广电海龙卡.jpeg)<br>广电海龙卡 19元135G流量+100分钟](https://172.lot-ml.com/h5orderEn/index?pudID=5d5f6256e43b4818&userid=841d1c8802a89634)||
+<!-- END_REPLACE_SECTION -->
+</table>
