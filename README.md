@@ -23,7 +23,7 @@
 |:---:|:---:|:---:|
 |[![广电海万卡24元150G150分钟](./images/广电海万卡24元150G150分钟.png)<br>广电海万卡24元150G150分钟](https://172.lot-ml.com/h5orderEn/index?pudID=cec2206f14367a36&userid=841d1c8802a89634) |  [![联通沧瑜卡](./images/联通沧瑜卡.jpeg)<br>联通沧瑜卡 29元50G流量+500分钟+300短信](https://172.lot-ml.com/h5orderEn/index?pudID=e3ca7f4d5a10c52e&userid=841d1c8802a89634) |[![电信沧华卡](./images/电信沧华卡.jpeg)<br>电信沧华卡 19元150G流量](https://172.lot-ml.com/h5orderEn/index?pudID=0a8488e82999a386&userid=841d1c8802a89634)|
 |[![联通沧旗卡](./images/联通沧旗卡.jpeg)<br>联通沧旗卡 39元155G通用流量+100G定向+视频会员](https://172.lot-ml.com/h5orderEn/index?pudID=737a132b4e715c2d&userid=841d1c8802a89634) | [![联通沧轴卡](./images/联通沧轴卡.jpeg)<br>联通沧轴卡 29元80G流量【50G通用+30G定向】+100分钟通话](https://172.lot-ml.com/h5orderEn/index?pudID=5d60d286fead5f98&userid=841d1c8802a89634)  | [![电信海滨卡 长期29元80G](./images/电信海滨卡长期29元80G.png)<br>电信海滨卡 长期29元80G](https://172.lot-ml.com/h5orderEn/index?pudID=57d0d8b90e595568&userid=841d1c8802a89634) |
-|[![电信梦越卡](./images/电信梦越卡.jpeg)<br>电信梦越卡 19元100G流量](https://172.lot-ml.com/h5orderEn/index?pudID=d52d29da76b1b64d&userid=841d1c8802a89634)|[![电信沧鸿卡](./images/电信沧鸿卡.jpeg)<br>电信沧鸿卡 29元235G流量](https://172.lot-ml.com/h5orderEn/index?pudID=8cc630159895ae62&userid=841d1c8802a89634)|
+|[![电信梦越卡](./images/电信梦越卡.jpeg)<br>电信梦越卡 19元100G流量](https://172.lot-ml.com/h5orderEn/index?pudID=d52d29da76b1b64d&userid=841d1c8802a89634)|[![电信沧鸿卡](./images/电信沧鸿卡.jpeg)<br>电信沧鸿卡 29元235G流量100分钟通话](https://172.lot-ml.com/h5orderEn/index?pudID=8cc630159895ae62&userid=841d1c8802a89634)|
 
 <!-- END_REPLACE_SECTION -->
 </table>
